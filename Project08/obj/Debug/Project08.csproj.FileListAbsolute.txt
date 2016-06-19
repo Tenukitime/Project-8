@@ -1,0 +1,9 @@
+C:\Users\Kyle\Documents\CS1400\Project08\Project08\bin\Debug\Project08.exe.config
+C:\Users\Kyle\Documents\CS1400\Project08\Project08\obj\Debug\Project08.csprojResolveAssemblyReference.cache
+C:\Users\Kyle\Documents\CS1400\Project08\Project08\obj\Debug\Project08.Form1.resources
+C:\Users\Kyle\Documents\CS1400\Project08\Project08\obj\Debug\Project08.Properties.Resources.resources
+C:\Users\Kyle\Documents\CS1400\Project08\Project08\obj\Debug\Project08.csproj.GenerateResource.Cache
+C:\Users\Kyle\Documents\CS1400\Project08\Project08\bin\Debug\Project08.exe
+C:\Users\Kyle\Documents\CS1400\Project08\Project08\bin\Debug\Project08.pdb
+C:\Users\Kyle\Documents\CS1400\Project08\Project08\obj\Debug\Project08.exe
+C:\Users\Kyle\Documents\CS1400\Project08\Project08\obj\Debug\Project08.pdb
